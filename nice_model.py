@@ -7,7 +7,7 @@ import numpy as np
 #import jieba
 # 超参数
 # Number of Epochs
-epochs =1
+epochs =5
 
 # Batch Size
 batch_size =5
